@@ -95,7 +95,9 @@ The dashboard enables HR professionals and business leaders to make **data-drive
 
 ## 📊 Dashboard Preview
 
-👉 *
+👉 https://github.com/sktprathap/People-Management-Analysis/blob/main/Screenshot%202025-09-18%20134842.jpg
+https://github.com/sktprathap/People-Management-Analysis/blob/main/Screenshot%202025-09-18%20134913.jpg
+https://github.com/sktprathap/People-Management-Analysis/blob/main/Screenshot%202025-09-18%20134956.jpg
 
 ---
 
