@@ -95,7 +95,11 @@ The dashboard enables HR professionals and business leaders to make **data-drive
 
 ## 📊 Dashboard Preview
 
-👉 (Attach the screenshots you shared in GitHub repo: e.g., ![Screenshot 2025-09-18 134842](https://github.com/user-attachments/assets/c19dcdfa-da6c-4aeb-ae94-d9d747761b0e)
+ ![Screenshot 2025-09-18 134842](https://github.com/user-attachments/assets/c19dcdfa-da6c-4aeb-ae94-d9d747761b0e)
+ ![Screenshot 2025-09-18 134913](https://github.com/user-attachments/assets/a720ba26-3c36-41c1-bc3f-26a01baf7b69)
+ ![Screenshot 2025-09-18 134956](https://github.com/user-attachments/assets/21ff5ffb-9d55-4db9-a81b-9726807ae86b)
+
+
 
 ---
 
